@@ -1,4 +1,6 @@
 name: Live Spider
+GT_EMAIL: 1430955196@qq.com
+GH_ACTOR: Isshin
 on:
   workflow_dispatch:
 jobs:
